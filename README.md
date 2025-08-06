@@ -86,7 +86,7 @@ npm start</code></pre>
   <p><strong>Mahima Nagpal</strong><br>
   📧 nagpalmahima63@gmail.com<br>
   🌐 Portfolio Website<br>
-  🔗 <a href="https://www.linkedin.com/in/mahima-nagpal-0bb072309" target="_blank">LinkedIn</a> • <a href=" https://github.com/Mahimanagpal" target="_blank">GitHub</a></p>
+  🔗 <a href="https://www.linkedin.com/in/mahima-nagpal-0bb072309" target="_blank">LinkedIn</a> • <a href="https://github.com/Mahimanagpal" target="_blank">GitHub</a></p>
 
   <h2>📄 License</h2>
   <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>.</p>
