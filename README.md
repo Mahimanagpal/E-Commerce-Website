@@ -2,7 +2,7 @@
 <p>A fully functional eCommerce web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). Users can browse products, add them to cart, make secure payments, and place orders. Admins can manage products, categories, and orders from the dashboard.</p>
   <h2>🔗 Live Demo</h2>
    <p>
-    <a href="https://e-commerce-website-tzuy.onrender.com" >Live Website</a> |
+    <a href="https://e-commerce-website-tzuy.onrender.com" >Live Website</a> 
   </p>
   <h2>📸 Screenshots</h2>
   <p>Homepage</p>
@@ -86,7 +86,7 @@ npm start</code></pre>
   <p><strong>Mahima Nagpal</strong><br>
   📧 nagpalmahima63@gmail.com<br>
   🌐 Portfolio Website<br>
-  🔗 <a href="www.linkedin.com/in/mahima-nagpal-0bb072309" target="_blank">LinkedIn</a> • <a href="https://github.com/yourusername" target="_blank">GitHub</a></p>
+  🔗 <a href="https://www.linkedin.com/in/mahima-nagpal-0bb072309" target="_blank">LinkedIn</a> • <a href=" https://github.com/Mahimanagpal" target="_blank">GitHub</a></p>
 
   <h2>📄 License</h2>
   <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>.</p>
