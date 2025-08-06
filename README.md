@@ -5,5 +5,5 @@
     <a href="https://e-commerce-website-tzuy.onrender.com" >Live Website</a> |
   </p>
   <h2>📸 Screenshots</h2>
-    <img class="screenshot" src="https://github.com/Mahimanagpal/E-Commerce-Website/edit/main/readme-assets/Homepage.png" alt="Homepage Screenshot" />
+    <img class="screenshot" src="https://github.com/Mahimanagpal/E-Commerce-Website/blob/main/readme-assets/Homepage.png" alt="Homepage Screenshot" />
 <!--   <img class="screenshot" src="screenshot-cart.png" alt="Cart Screenshot" /> -->
