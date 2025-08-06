@@ -21,7 +21,6 @@
         <img src="https://github.com/Mahimanagpal/E-Commerce-Website/blob/main/readme-assets/Admin%20Dashboard.png" alt="Admin Dashboard Screenshot" />     
   <h2>🚀 Features</h2>
     <h3>🛍️ User Features</h3>
-     <h3>🛍️ User Features</h3>
   <ul>
     <li>Browse products by category</li>
     <li>Product size selection</li>
@@ -42,8 +41,53 @@
 
   <h2>🧰 Tech Stack</h2>
   <ul>
-    <li><strong>Frontend:</strong> React.js, React Router, Bootstrap/CSS Modules</li>
+    <li><strong>Frontend:</strong> React.js, React Router, Bootstrap, CSS</li>
     <li><strong>Backend:</strong> Node.js, Express.js, MongoDB, Mongoose</li>
-    <li><strong>Other:</strong> JWT, Braintree, Cloudinary, Render</li>
+    <li><strong>Other:</strong> JWT, Braintree, Render, Github</li>
   </ul>
+ <h2>🛠️ Setup Instructions</h2>
+
+  <h3>1. Prerequisites</h3>
+  <ul>
+    <li>Node.js and npm</li>
+    <li>MongoDB Atlas account</li>
+    <li>Braintree sandbox account</li>
+  </ul>
+
+  <h3>2. Clone the Repository</h3>
+  <pre><code>git clone https://github.com/Mahimanagpal/E-Commerce-Website.git</code></pre>
+
+  <h3>3. Backend Setup</h3>
+  <pre><code>
+npm install
+touch .env</code></pre>
+
+  <p><strong>.env file:</strong></p>
+  <pre><code>PORT=port
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+BRAINTREE_MERCHANT_ID=your_merchant_id
+BRAINTREE_PUBLIC_KEY=your_public_key
+BRAINTREE_PRIVATE_KEY=your_private_key
+</code></pre>
+
+  <p>Start backend:</p>
+  <pre><code>npm start</code></pre>
+
+  <h3>4. Frontend Setup</h3>
+  <pre><code>cd client
+npm install
+npm start</code></pre>
+
+  <h2>📦 Deployment</h2>
+  <p>Deploy Website on <a href="https://render.com" target="_blank">Render</a>.</p>
+
+  <h2>🧑‍💻 Author</h2>
+  <p><strong>Mahima Nagpal</strong><br>
+  📧 nagpalmahima63@gmail.com<br>
+  🌐 Portfolio Website<br>
+  🔗 <a href="www.linkedin.com/in/mahima-nagpal-0bb072309" target="_blank">LinkedIn</a> • <a href="https://github.com/yourusername" target="_blank">GitHub</a></p>
+
+  <h2>📄 License</h2>
+  <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>.</p>
 
