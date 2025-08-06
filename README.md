@@ -1,4 +1,4 @@
-#MERN STACK E-Commerce Website 
-Complete Full Stack Project using cutting edge technologies, with admin panel and payment gateway.
+<h1>TrendWave - FULL STACK E-COMMERCE WEBSITE</h1>
+
 
  
